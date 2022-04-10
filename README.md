@@ -1,6 +1,8 @@
 # PizzaWebsite-FinalProject
 This was a project for my Software Engineering class where were tasked with designing a pizza order and delivery system for a new pizza shop. This shop would be a small start-up with carryout and delivery only. Requirements for this project were summarized as the following,"You are to design the whole computer system that will set up new customers, take orders, calculate bills, process payments, and contain the restaurant menu." 
 
+![Home Web Demo](https://github.com/JaymeAlann/PizzaWebsite-FinalProject/blob/master/FinalProject/img/README_Gif.gif "Home Demo")
+
 The Specification and Detailed information was as follows:
 
 1. You will set up a record for each new customer. This information will be keyed by customer phone number. Put information into the master record such as name, address, phone and type of charge account (Visa/ MasterCard). You also need to record pertinent information for locating the address (i.e., subdivision name, closest major intersection, etc.)
