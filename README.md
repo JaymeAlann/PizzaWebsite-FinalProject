@@ -3,7 +3,7 @@ This was a project for my Software Engineering class where were tasked with desi
 
 The Specification and Detailed information was as follows:
 
-"1. You will set up a record for each new customer. This information will be keyed by customer phone number. Put information into the master record such as name, address, phone and type of charge account (Visa/ MasterCard). You also need to record pertinent information for locating the address (i.e., subdivision name, closest major intersection, etc.)
+1. You will set up a record for each new customer. This information will be keyed by customer phone number. Put information into the master record such as name, address, phone and type of charge account (Visa/ MasterCard). You also need to record pertinent information for locating the address (i.e., subdivision name, closest major intersection, etc.)
 2. Your system needs to process payments in the form of checks, cash or credit cards. You will need to keep track of the type of payment made and the amount.
 3. Users will access the customer database for all customer transactions. The information should come up for already established customers showing their address and delivery information.
 4. Your system should be able to print out a receipt of the order with a place to sign the form by the customer if it is on a credit card. This should have customer information, a list of items ordered, if it is for delivery or pickup, and amount due.
