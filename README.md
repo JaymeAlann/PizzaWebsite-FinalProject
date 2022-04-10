@@ -1,7 +1,7 @@
 # PizzaWebsite-FinalProject
 This was a project for my Software Engineering class where were tasked with designing a pizza order and delivery system for a new pizza shop. This shop would be a small start-up with carryout and delivery only. Requirements for this project were summarized as the following,"You are to design the whole computer system that will set up new customers, take orders, calculate bills, process payments, and contain the restaurant menu." 
 
-![Home Web Demo](https://github.com/JaymeAlann/PizzaWebsite-FinalProject/blob/master/FinalProject/img/README_vid.mp4 "Home Demo")
+![Home Web Demo](https://github.com/JaymeAlann/PizzaWebsite-FinalProject/blob/master/FinalProject/img/README_gif.gif "Home Demo")
 
 The Specification and Detailed information was as follows:
 
